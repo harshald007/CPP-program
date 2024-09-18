@@ -1,0 +1,1 @@
+{"name":"Local: array5","url":"d:\\revision cpp\\array\\array5.cpp","tests":[{"id":1725829412209,"input":"true true true false true \n","output":"true true true false true \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\revision cpp\\array\\array5.cpp","group":"local","local":true}
