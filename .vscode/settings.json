@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "decimaltobinary",
+        "decimaltohexadecimal",
+        "decimaltooctal",
+        "hexadecimalto",
+        "lastdigit",
+        "pocketmoney"
+    ],
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript",
+        ".js": "react",
+        "*.cpp": "cpp",
+        "algorithm": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
